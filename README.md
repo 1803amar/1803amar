@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Appium, webdriverIO**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1ocPtEEAnuzHYi4Dqc8E12epwYuqaJGNg/view?usp=sharing](https://drive.google.com/file/d/1ocPtEEAnuzHYi4Dqc8E12epwYuqaJGNg/view?usp=sharing)
+- 👨‍💻 All of my projects are available at https://amar-mishra-portfolio.netlify.app/
 
 - 💬 Ask me about **JavaScript, Selenium, Cypress, Cucumber, RestAssured**
 
