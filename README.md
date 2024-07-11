@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at https://amar-mishra-portfolio.netlify.app/
 
-- Know about my experiences <a href="https://drive.google.com/file/d/1fhn2xEqmKDb1t9RkPNiJPfhelDBGPjRl/view">#Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1fhn2xEqmKDb1t9RkPNiJPfhelDBGPjRl/view">#Resume</a>
 
 - 💬 Ask me about **JavaScript, Selenium, Cypress, Cucumber, RestAssured**
 
