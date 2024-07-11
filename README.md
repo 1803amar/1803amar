@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1803amar&label=Profile%20views&color=0e75b6&style=flat" alt="1803amar" /> </p>
 
+<h2>About Me</h2>
+<P>Dedicated Quality Analyst committed to ensuring seamless and effective software experiences. My expertise spans automation and manual testing, adept at resolving intricate issues with precision. I maintain a proactive approach to learning and adapting, consistently delivering top-tier solutions. I actively explore cutting-edge tools and technologies to remain abreast of industry advancements, as evidenced by my diverse portfolio and demonstrated expertise.</P>
+
 - 🔭 I’m currently working on **Mobile Testing**
 
 - 🌱 I’m currently learning **Appium, webdriverIO**
