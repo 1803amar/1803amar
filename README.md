@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Appium, webdriverIO**
 
-- 👨‍💻 All of my projects are available at https://amar-mishra-portfolio.netlify.app/
+- 👨‍💻 All of my projects are available at [https://portfolio-amar-mishra.netlify.app/]
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1fhn2xEqmKDb1t9RkPNiJPfhelDBGPjRl/view">#Resume</a>
 
